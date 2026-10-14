@@ -209,15 +209,15 @@ export const galeriKategori = ["Semua", "Together", "Random"];
 
 export const galeriFoto = [
   { id: 1, url: "/images/gallery/foto_after_agustusan_01.jpg", judul: "Foto Angkatan", kategori: "Together" },
-  { id: 2, url: "/images/gallery/foto_after_agustusan_02.jpg", judul: "Foto Angkatan", kategori: "Random" },
-  { id: 3, url: "/images/gallery/foto_agustusan.jpg", judul: "Foto Angkatan", kategori: "Random" },
-  { id: 4, url: "/images/gallery/papi_ultah_01.jpg", judul: "Foto Angkatan", kategori: "Random" },
+  { id: 2, url: "/images/gallery/foto_after_agustusan_02.jpg", judul: "Foto Angkatan", kategori: "Together" },
+  { id: 3, url: "/images/gallery/foto_agustusan.jpg", judul: "Foto Angkatan", kategori: "Together" },
+  { id: 4, url: "/images/gallery/papi_ultah_01.jpg", judul: "Foto Angkatan", kategori: "Together" },
   { id: 5, url: "/images/gallery/japan_with_sensei.jpg", judul: "Foto Angkatan", kategori: "Together" },
-  { id: 6, url: "/images/gallery/solder_pak_bas.jpg", judul: "Foto Angkatan", kategori: "Random" },
+  { id: 6, url: "/images/gallery/solder_pak_bas.jpg", judul: "Foto Angkatan", kategori: "Together" },
   { id: 7, url: "/images/gallery/sertifikasi_01.jpg", judul: "Foto Angkatan", kategori: "Together" },
   { id: 8, url: "/images/gallery/mbg_day1.jpg", judul: "Foto Angkatan", kategori: "Together" },
-  { id: 9, url: "/images/gallery/IMG-20260820-WA0015.jpg", judul: "Foto Angkatan", kategori: "Together" },
-  { id: 10, url: "/images/gallery/IMG-20260820-WA0016.jpg", judul: "Foto Angkatan", kategori: "Together" },
+  { id: 9, url: "/images/gallery/sultan_cukur.jpg", judul: "Foto Angkatan", kategori: "Together" },
+  { id: 10, url: "/images/gallery/zaydan_duduk.jpg", judul: "Foto Angkatan", kategori: "Together" },
 
  
 ];
