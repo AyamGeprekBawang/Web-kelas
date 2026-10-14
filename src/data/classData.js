@@ -15,7 +15,7 @@ export const classInfo = {
   motto: "Bersama Kita Bertumbuh, Bersama Kita Berhasil.",
   tahunAjaran: "2026/2027",
   fotoHero: "/images/gallery/foto_after_agustusan_01.jpg",
-  alamatSekolah: "Jl. Pendidikan No. 45, Kota Harapan, Jawa Barat",
+  alamatSekolah: "Jl. Sultan Hasanudin, RT.07/RW.02, Desa Mekarsari, Kecamatan Tambun Selatan, Kabupaten Bekasi, Jawa Barat",
 };
 
 // ----------------------------------------------------------------------------
@@ -256,7 +256,7 @@ export const prestasi = [
 // 7. FOOTER
 // ----------------------------------------------------------------------------
 export const createdBy = [
-  { peran: "Lead Developer", nama: "Muhammad Fahreza Irahim", instagram: "@rizkyp" },
+  { peran: "Lead Developer", nama: "Fahreza", instagram: "@hydrobluzzzz" },
 ];
 
 export const quickLinks = [
