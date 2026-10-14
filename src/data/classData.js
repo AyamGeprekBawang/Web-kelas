@@ -216,8 +216,8 @@ export const galeriFoto = [
   { id: 6, url: "/images/gallery/solder_pak_bas.jpg", judul: "Foto Angkatan", kategori: "Together" },
   { id: 7, url: "/images/gallery/sertifikasi_01.jpg", judul: "Foto Angkatan", kategori: "Together" },
   { id: 8, url: "/images/gallery/mbg_day1.jpg", judul: "Foto Angkatan", kategori: "Together" },
-  { id: 9, url: "/images/gallery/sultan_cukur.jpg", judul: "Foto Angkatan", kategori: "Together" },
-  { id: 10, url: "/images/gallery/zaydan_duduk.jpg", judul: "Foto Angkatan", kategori: "Together" },
+  { id: 9, url: "/images/gallery/sultan_cukur.jpg", judul: "Foto Angkatan", kategori: "Random" },
+  { id: 10, url: "/images/gallery/zaydan_duduk.jpg", judul: "Foto Angkatan", kategori: "Random" },
 
  
 ];
